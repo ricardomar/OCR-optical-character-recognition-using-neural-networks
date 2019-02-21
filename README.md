@@ -12,6 +12,8 @@
 
 - The source code and documentation of the application is available here. A video demonstrating the software tool is presented next:
 
+- [Demo video 01](https://youtu.be/lxPAlh4vR_Y)
+
 [![alt text](https://img.youtube.com/vi/lxPAlh4vR_Y/0.jpg)](https://youtu.be/lxPAlh4vR_Y)
 
 
