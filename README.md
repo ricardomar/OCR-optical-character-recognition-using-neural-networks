@@ -1,4 +1,5 @@
 # OCR optical character recognition using neural networks
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4570605.svg)](https://doi.org/10.5281/zenodo.4570605)
 
 
 ## Objectives:
@@ -17,4 +18,4 @@
 [![alt text](https://img.youtube.com/vi/lxPAlh4vR_Y/0.jpg)](https://youtu.be/lxPAlh4vR_Y)
 
 
-- Software tool developed in collaboration with Joao Duarte during the Adaptive Computing and Diffuse Systems course.
+- Software tool developed by Ricardo Martins and João Duarte during the Adaptive Computing and Diffuse Systems course as Biomedical Engineering students (2007/2008)
